@@ -18,6 +18,7 @@ e是一些比较小的非负整数组成的向量
 
 感觉就是求且优化问题
 min ||Ax-b||^2
+
 s.t. 1<=x<=k
 
 pyhton可以用numpy和scipy
